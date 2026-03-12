@@ -20,4 +20,4 @@ Welcome to my personal frontend developer portfolio! Built with React, Vite, and
 
 ## 📬 Contact
 
-Spriha Jha - Frontend Developer
+Spriha- Frontend Developer
