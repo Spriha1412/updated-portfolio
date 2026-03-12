@@ -17,32 +17,6 @@ Welcome to my personal frontend developer portfolio! Built with React, Vite, and
 * [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development.
 * [React Icons](https://react-icons.github.io/react-icons/) - High quality SVG icons for React projects.
 
-## 🚀 Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
-### Prerequisites
-
-Ensure you have Node.js and npm installed.
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Spriha1412/updated-portfolio.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd updated-portfolio
-   ```
-3. Install NPM packages:
-   ```sh
-   npm install
-   ```
-4. Start the development server:
-   ```sh
-   npm run dev
-   ```
 
 ## 📬 Contact
 
