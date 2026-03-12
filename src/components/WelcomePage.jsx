@@ -93,7 +93,7 @@ const WelcomePage = ({ onComplete }) => {
                             <img
                                 src="/avatars/welcome-avatar.png"
                                 alt="Spriha Avatar"
-                                className="w-full h-full object-contain relative z-10 drop-shadow-[0_0_40px_rgba(34,211,238,0.5)] scale-[1.15]"
+                                className="w-full h-full object-contain relative z-10 drop-shadow-[0_0_40px_rgba(34,211,238,0.5)] scale-[1.45]"
                             />
                         </div>
                     </div>

@@ -3,27 +3,27 @@ import { FaBitcoin, FaNewspaper, FaPuzzlePiece, FaChartLine, FaCloudSunRain, FaL
 
 const projects = [
     {
-        icon: FaBitcoin,
-        title: 'Crypto Tracker & Manager',
-        description: 'Full stack portfolio tracking app with real-time price updates, RESTful APIs, and SQLite persistence.',
-        stack: 'React, Node.js, SQLite',
-        status: 'working',
-        color: 'text-yellow-400',
-        github: null,
-    },
-    {
         icon: FaChartLine,
         title: 'WealthMind',
-        description: 'UI/UX case study — high-fidelity dashboards for financial tracking with intuitive data visualization.',
+        description: 'High-fidelity financial tracking dashboards with intuitive data visual.',
         stack: 'Figma, Framer',
         status: 'working',
         color: 'text-neon-magenta',
         github: null,
     },
     {
+        icon: FaBitcoin,
+        title: 'ChainMetrics',
+        description: 'Crypto portfolio tracker with real-time prices & persistence.',
+        stack: 'React, Node.js, SQLite',
+        status: 'completed',
+        color: 'text-yellow-400',
+        github: 'https://github.com/Spriha1412/ChainMetrics',
+    },
+    {
         icon: FaNewspaper,
         title: 'NewsSync',
-        description: 'Real-time responsive news platform with category-based filtering, reusable components, and smooth animations.',
+        description: 'Real-time responsive news platform with category filters.',
         stack: 'React, Tailwind, Framer Motion',
         status: 'completed',
         color: 'text-neon-cyan',
@@ -32,7 +32,7 @@ const projects = [
     {
         icon: FaPuzzlePiece,
         title: 'The Challenge Box',
-        description: 'Interactive coding challenge generator by category and difficulty with dynamic DOM manipulation.',
+        description: 'Interactive coding challenge generator with difficulty tiers.',
         stack: 'HTML, CSS, JavaScript',
         status: 'completed',
         color: 'text-neon-violet',
@@ -41,7 +41,7 @@ const projects = [
     {
         icon: FaCloudSunRain,
         title: 'Dynamic Weather App',
-        description: 'Real-time weather application with dynamic backgrounds, location-based forecasts, and responsive design.',
+        description: 'Real-time weather with dynamic backgrounds & location data.',
         stack: 'HTML, CSS, JavaScript',
         status: 'completed',
         color: 'text-green-400',
